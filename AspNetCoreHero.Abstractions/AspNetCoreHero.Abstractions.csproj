@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1;net5.0</TargetFrameworks>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Mukesh Murugan</Authors>
+    <Company>aspnetcorehero</Company>
+    <Product>AspNetCoreHero.Abstractions</Product>
+    <Description>Collection of Abstract Classes to improve code reusability within projects.</Description>
+    <Copyright>2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0.0</Version>
+    <PackageIcon>Logo_600x600.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/aspnetcorehero/ThrowR</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/aspnetcorehero/ThrowR</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
